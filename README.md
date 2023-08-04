@@ -1,1 +1,2 @@
 # Credit_EDA
+This is a case study performed on datasets containing data about loan applications of a number of people along with various parameters pertaining to their application. The case study aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for taking actions such as denying the loan, reducing the loan amount, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the customers capable of repaying the loan are not rejected.
